@@ -40,3 +40,4 @@ The ESP32-S3-BOX comes with pre-built firmware that supports offline voice inter
 ## Purchase
 
 * [Adafruit](https://www.adafruit.com/product/5290)
+
