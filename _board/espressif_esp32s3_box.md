@@ -8,7 +8,7 @@ board_url: "https://www.adafruit.com/product/5290"
 board_image: "espressif_esp32s3_box.jpg"
 date_added: 2020-05-15
 family: esp32s3
-bootloader_id: ```ESP32-S3-Box-2.5```
+bootloader_id: "ESP32-S3-Box-2.5"
 features:
   - Wi-Fi
   - Breadboard-Friendly
